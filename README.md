@@ -34,21 +34,6 @@
 
 ---
 
-## 🔐 Источник бинарных файлов
-
-> [!IMPORTANT]
-> Все бинарные файлы, расположенные в папке [`bin`](https://github.com/Flowseal/zapret-discord-youtube/tree/main/bin), взяты из официальных репозиториев:
->
-> * [`zapret-win-bundle/zapret-winws`](https://github.com/bol-van/zapret-win-bundle/tree/master/zapret-winws)
-> * [`zapret/releases`](https://github.com/bol-van/zapret/releases)
->
-> Их происхождение можно самостоятельно проверить с помощью **хэшей / контрольных сумм**.
->
-> **Всегда проверяйте файлы перед запуском и убедитесь, что используете сборки из доверенных источников.**
-
-
----
-
 ## ⚙️ Использование
 
 ### 1. Включите безопасный DNS (Secure DNS)
@@ -103,9 +88,7 @@
 
 ### 2. 📦 Скачайте архив
 
-Скачайте ZIP/RAR-архив со страницы последнего релиза:
-
-➡️ **[Скачать последний релиз](https://github.com/Flowseal/zapret-discord-youtube/releases/latest)**
+Скачайте ZIP/RAR-архив со страницы выше
 
 ---
 
